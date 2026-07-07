@@ -1,0 +1,212 @@
+{
+  "assets": {
+    "cbfa5b62": {
+      "id": "cbfa5b62",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/hero.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A stunning luxury oceanfront villa in Maui at golden hour, infinity pool overlooking the Pacific Ocean, modern architecture with floor-to-ceiling glass windows, tropical landscaping, warm sunset light, photorealistic architectural photography, high-end real estate",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:19:49Z",
+      "tags": null
+    },
+    "9e1e135b": {
+      "id": "9e1e135b",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/santorini.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A luxury whitewashed Cycladic villa in Santorini Greece, infinity pool overlooking the Aegean caldera, blue domes, cliffside architecture, warm Mediterranean sunset, photorealistic, high-end travel photography",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:20:35Z",
+      "tags": null
+    },
+    "0f6620a5": {
+      "id": "0f6620a5",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/aspen.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A luxury alpine ski chalet in Aspen Colorado, snow-covered mountain backdrop, warm interior glow through large windows, private hot tub on deck, modern mountain architecture, photorealistic, twilight blue hour",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:21:19Z",
+      "tags": null
+    },
+    "b5afd7f1": {
+      "id": "b5afd7f1",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/maui.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A luxury oceanfront villa in Maui Hawaii, cliffside infinity pool, tropical modern architecture, palm trees, Pacific Ocean views, bright daylight, photorealistic, high-end real estate photography",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:21:59Z",
+      "tags": null
+    },
+    "e33f1a7c": {
+      "id": "e33f1a7c",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/tuscany.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A luxury Tuscan villa surrounded by vineyards, golden stone architecture, private pool, cypress trees, rolling hills of Italy, warm afternoon light, photorealistic, high-end travel photography",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:22:39Z",
+      "tags": null
+    },
+    "8cb67fa1": {
+      "id": "8cb67fa1",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/paris.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A luxury Paris penthouse interior in Le Marais, elegant design-forward decor, floor-to-ceiling windows with Parisian balcony view, warm natural light, designer furniture, photorealistic, architectural digest style",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:23:15Z",
+      "tags": null
+    },
+    "46025f07": {
+      "id": "46025f07",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/kyoto.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A restored traditional Japanese machiya house in Kyoto, private zen garden, wooden architecture, shoji screens, modern minimalist interior, soft natural light, photorealistic, travel photography",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:23:51Z",
+      "tags": null
+    },
+    "96d8fc05": {
+      "id": "96d8fc05",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/lifestyle-pool.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A luxury infinity pool overlooking the ocean at a high-end vacation villa, crystal clear turquoise water, sun loungers, tropical setting, golden hour light, photorealistic, travel photography",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:24:24Z",
+      "tags": null
+    },
+    "5fca9580": {
+      "id": "5fca9580",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/detail-interior.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "Interior detail of a luxury vacation rental, designer living room with fireplace, warm natural light, high-end furniture, textured walls, curated art and objects, architectural digest style, photorealistic",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:26:43Z",
+      "tags": null
+    },
+    "c453e604": {
+      "id": "c453e604",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/story-travel.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A traveler arriving at a luxury vacation villa, carrying luggage, walking toward a beautiful modern home with a pool, warm golden hour light, lifestyle travel photography, photorealistic",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:27:16Z",
+      "tags": null
+    },
+    "70865866": {
+      "id": "70865866",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/about-team.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A small team of travel professionals visiting and inspecting a beautiful luxury vacation property, taking notes, modern villa setting, candid documentary style, warm natural light, photorealistic",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:27:43Z",
+      "tags": null
+    },
+    "77faede2": {
+      "id": "77faede2",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/careers-office.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-2",
+      "generation": {
+        "prompt": "A modern bright startup office for a travel tech company, team collaborating around a wooden table with laptops, plants, maps on walls, natural light, warm welcoming atmosphere, photorealistic",
+        "model": "nano-banana-2",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:28:17Z",
+      "tags": null
+    },
+    "aa96c6e5": {
+      "id": "aa96c6e5",
+      "type": "image",
+      "src": "haven_stays_demo/site/assets/og-banner.png",
+      "duration_s": null,
+      "resolution": null,
+      "provider": "nano-banana-pro",
+      "generation": {
+        "prompt": "A panoramic banner image of multiple luxury vacation rental homes arranged in a collage \u2014 oceanfront villa, alpine chalet, Tuscan villa, Santorini cliffside \u2014 with the text 'Haven Stays' in elegant typography, warm inviting luxury travel aesthetic, photorealistic",
+        "model": "nano-banana-pro",
+        "n": 1,
+        "google_search_grounding": false
+      },
+      "created_at": "2026-07-06T18:29:13Z",
+      "tags": null
+    }
+  }
+}
